@@ -4,7 +4,7 @@
 
 var Config = function() {
 
-    var name = 'threejs-editor';
+    var name = '三维模型交互系统';
 
     var storage = {
         'language': 'zh',
